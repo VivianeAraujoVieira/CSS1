@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+p{background-color: rgb(231, 238, 170);}
+
+#primeiro-paragrafo {
+    font-weight: bolder;
+    text-decoration: solid;
+    border-bottom: 10px dashed green;
+
+}
